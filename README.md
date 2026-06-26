@@ -21,3 +21,10 @@ Return the result as:
 - latest commit
 - next safe Git action
 
+## Test text
+
+- Name: Solbi
+- Korean name: 솔비
+- Test message: 테스트 글자 삽입
+- Practice sentence: This line was added for GitHub workflow practice.
+- Mixed text: Solbi 테스트 123 ABC
